@@ -2,5 +2,5 @@
 const driver = {}
 
 function updateDriverWithKeyAndValue(driver, key, value) {
-  return driver = key.value(address)
+  return driver = key.value
 }
