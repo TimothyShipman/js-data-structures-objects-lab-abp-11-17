@@ -4,3 +4,7 @@ var driver = {}
 function updateDriverWithKeyAndValue(driver, key, value) {
   return (driver = { name: 'Sam', address: '11 Broadway' })
 }
+
+function destructivelyUpdateDriverWithKeyAndValue(driver, key, value) {
+  
+}
