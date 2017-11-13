@@ -2,5 +2,5 @@
 var driver = {}
 
 function updateDriverWithKeyAndValue(driver, key, value) {
-  var driver = {'Sam', [address], '11 Broadway'}
+  return driver = {'Sam', [address], '11 Broadway'}
 }
